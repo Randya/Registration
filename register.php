@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <?php echo $messsage; ?>
+    <?php echo $message; ?>
     <body>
         <form action="" method="post">
             <input type="text" name="name" placeholder="Username">
